@@ -7,4 +7,10 @@ public class Home {
 		System.out.println("HOME page");
 
 	}
+	
+public void gethomePageTitle() {
+		
+		System.out.println("HOME page");
+
+	}
 }
