@@ -10,7 +10,13 @@ public class Home {
 	
 public void gethomePageTitle() {
 		
-		System.out.println("HOME page");
+		System.out.println("HOME page Title");
+
+	}
+	
+	public void gethomePageName() {
+		
+		System.out.println("HOME page Name");
 
 	}
 }
